@@ -1,0 +1,7 @@
+primo_modulo.content:
+  path: '/primo'
+  defaults:
+    _controller: 'Drupal\primo_modulo\Controller\PrimoController::content'
+    _title: 'Ciao Mondo'
+  requirements:
+    _permission: 'access content'

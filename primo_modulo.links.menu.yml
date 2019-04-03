@@ -1,0 +1,6 @@
+primo_modulo.admin:
+  title: 'Impostazioni primo modulo'
+  description: 'Modulo di base Ciao Mondo'
+  parent: system.admin_config_development
+  route_name: primo_modulo.content
+  weight: 100
